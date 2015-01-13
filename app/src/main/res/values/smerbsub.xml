@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="smerb_stanicesub">
+        <item>Inđija - autobuska</item>
+        <item>Maradik</item>
+        <item>Gladnoš</item>
+        <item>Čortanovci</item>
+        <item>Beška</item>
+        <item>Krčedin</item>
+        <item>Sl. Vinogradi</item>
+        <item>Stari Slankamen</item>
+        <item>Novi Slankamen</item>
+        <item>Novi Karlovci</item>
+        <item>Autlet</item>
+        <item>Grundfos</item>
+        <item>Inđija</item>
+        <item>IGB</item>
+        <item>GOMBIT</item>
+    </string-array>
+    <string-array name="pbautobuskasub">
+        <item>03:50</item>
+        <item>04:55</item>
+        <item>05:50</item>
+
+        <item>07:30</item>
+        <item>10:30</item>
+        <item>11:35</item>
+
+        <item>13:15</item>
+
+        <item>14:30</item>
+
+        <item>16:20</item>
+        <item>18:30</item>
+
+        <item>19:40</item>
+
+        <item>23:20</item>
+     </string-array>
+
+    <string-array name="pbmaradiksub">
+
+        <item>07:48</item>
+        <item>10:48</item>
+
+        <item>14:48</item>
+
+        <item>16:38</item>
+        <item>18:48</item>
+
+
+        <item>23:38</item>
+
+    </string-array>
+
+    <string-array name="pbgladnossub">
+        <item>05:16</item>
+        <item>16:49</item>
+
+    </string-array>
+
+    <string-array name="pbcortanovcisub">
+        <item>05:25</item>
+
+        <item>16:58</item>
+
+        <item>23:55</item>
+    </string-array>
+
+    <string-array name="pbbeskasub">
+        <item>04:12</item>
+        <item>05:36</item>
+        <item>06:12</item>
+
+        <item>07:58</item>
+        <item>10:58</item>
+        <item>11:57</item>
+
+        <item>13:37</item>
+
+        <item>14:58</item>
+
+        <item>17:09</item>
+        <item>18:58</item>
+        <item>20:02</item>
+
+        <item>23:48</item>
+    </string-array>
+
+    <string-array name="pbkrcedinsub">
+        <item>04:25</item>
+        <item>05:49</item>
+        <item>06:25</item>
+        <item>08:11</item>
+        <item>11:11</item>
+        <item>12:10</item>
+
+        <item>13:50</item>
+        <item>15:11</item>
+
+        <item>17:22</item>
+        <item>19:11</item>
+        <item>20:15</item>
+
+    </string-array>
+
+    <string-array name="pbslvinogradisub">
+        <item>08:26</item>
+        <item>14:05</item>
+        <item>17:37</item>
+        <item>19:26</item>
+    </string-array>
+
+    <string-array name="pbsslankamensub">
+        <item>04:42</item>
+        <item>06:04</item>
+        <item>06:42</item>
+        <item>07:36</item>
+        <item>08:37</item>
+        <item>11:28</item>
+        <item>12:27</item>
+        <item>13:30</item>
+        <item>14:14</item>
+        <item>16:55</item>
+        <item>17:46</item>
+        <item>18:50</item>
+        <item>19:35</item>
+
+    </string-array>
+
+    <string-array name="pbnslankamensub">
+        <item>04:46</item>
+
+        <item>06:08</item>
+        <item>06:46</item>
+        <item>07:40</item>
+        <item>08:41</item>
+        <item>11:32</item>
+        <item>12:31</item>
+        <item>13:34</item>
+        <item>14:18</item>
+        <item>15:27</item>
+
+        <item>16:59</item>
+        <item>17:50</item>
+        <item>18:54</item>
+        <item>19:39</item>
+        <item>20:40</item>
+
+    </string-array>
+
+    <string-array name="pbsasesub">
+        <item>04:56</item>
+
+        <item>06:18</item>
+        <item>06:56</item>
+        <item>07:50</item>
+        <item>08:51</item>
+        <item>09:48</item>
+        <item>11:40</item>
+        <item>11:42</item>
+        <item>12:41</item>
+        <item>13:44</item>
+        <item>14:28</item>
+        <item>15:37</item>
+
+        <item>17:09</item>
+        <item>18:00</item>
+        <item>19:04</item>
+        <item>19:49</item>
+        <item>20:50</item>
+
+    </string-array>
+
+    <string-array name="pbautletsub">
+        <item>04:59</item>
+
+        <item>06:21</item>
+        <item>06:59</item>
+        <item>07:53</item>
+        <item>08:54</item>
+        <item>09:51</item>
+        <item>11:44</item>
+        <item>11:45</item>
+        <item>12:44</item>
+        <item>13:47</item>
+        <item>14:31</item>
+        <item>15:15</item>
+        <item>15:40</item>
+        <item>17:12</item>
+        <item>18:03</item>
+        <item>19:07</item>
+        <item>19:52</item>
+        <item>20:44</item>
+
+    </string-array>
+
+    <string-array name="pbgrundfossub">
+        <item>06:07</item>
+        <item>14:10</item>
+        <item>18:08</item>
+        <item>22:10</item>
+    </string-array>
+
+    <string-array name="pbindjijasub">
+        <item>05:15</item>
+
+        <item>06:46</item>
+        <item>07:15</item>
+        <item>08:09</item>
+        <item>09:10</item>
+        <item>10:00</item>
+        <item>11:53</item>
+        <item>12:01</item>
+        <item>13:00</item>
+        <item>14:03</item>
+        <item>14:25</item>
+        <item>14:46</item>
+        <item>15:25</item>
+        <item>15:56</item>
+        <item>16:46</item>
+        <item>17:28</item>
+        <item>18:29</item>
+        <item>19:23</item>
+        <item>20:08</item>
+        <item>21:00</item>
+        <item>22:25</item>
+        <item>00:22</item>
+    </string-array>
+
+    <string-array name="pbigbsub">
+        <item>06:36</item>
+        <item>14:36</item>
+
+    </string-array>
+
+    <string-array name="pbgombitsub">
+        <item>06:51</item>
+        <item>14:51</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Javni Prevoz Inđija</string>
+    <string name="prigradski_name">Prigradski javni prevoz</string>
+    <string name="gradski_name">Gradski javni prevoz</string>
+    <string name="poziv_name">Primedbe i sugestije</string>
+    <string name="action_settings">Podešavanja</string>
+    <string name="kontakt">PRIMEDBE I SUGESTIJE</string>
+    <string name="prigradski">PRIGRADSKI JAVNI PREVOZ</string>
+    <string name="gradski">GRADSKI JAVNI PREVOZ</string>
+    <string name="vremeLabel">VREME DOLASKA:</string>
+    <string name="operateri">Operateri Javnog prevoza Inđija:</string>
+    <string name="primedbeisugestije">PRIMEDBE I SUGESTIJE :</string>
+    <string name="opisSlicice">logoJPI</string>
+    <string name="jpimail">jpi@indjija.net</string>
+
+</resources>

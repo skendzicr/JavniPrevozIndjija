@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ljukovojarkovcined">
+        <item>Inđija</item>
+        <item>Ljukovo</item>
+        <item>Jarkovci</item>
+        <item>Inđija-autobuska</item>
+        <item>IGB</item>
+    </string-array>
+
+    <string-array name="indjija3ned">
+
+        <item>05:55</item>
+        <item>06:30</item>
+        <item>13:10</item>
+        <item>14:00</item>
+        <item>15:30</item>
+        <item>16:50</item>
+        <item>19:20</item>
+        <item>22:00</item>
+     </string-array>
+
+    <string-array name="ljukovo3ned">
+        <item>06:17</item>
+        <item>06:39</item>
+        <item>07:40</item>
+        <item>13:19</item>
+        <item>14:09</item>
+        <item>14:25</item>
+        <item>15:39</item>
+        <item>16:59</item>
+        <item>18:00</item>
+        <item>19:29</item>
+        <item>20:25</item>
+        <item>22:09</item>
+    </string-array>
+
+    <string-array name="jarkovci3ned">
+        <item>06:08</item>
+        <item>14:17</item>
+        <item>15:47</item>
+        <item>22:17</item>
+    </string-array>
+
+    <string-array name="autobuska3ned">
+        <item>06:27</item>
+        <item>07:51</item>
+        <item>14:36</item>
+        <item>16:07</item>
+        <item>18:11</item>
+        <item>20:36</item>
+        <item>22:32</item>
+    </string-array>
+
+
+    <string-array name="igb3ned">
+        <item>22:42</item>
+    </string-array>
+
+</resources>

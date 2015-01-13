@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ljukovojarkovci">
+        <item>Inđija</item>
+        <item>Ljukovo</item>
+        <item>Jarkovci</item>
+        <item>Inđija-autobuska</item>
+        <item>IGB</item>
+    </string-array>
+
+    <string-array name="indjija3">
+        <item>05:05</item>
+        <item>05:20</item>
+        <item>05:55</item>
+        <item>06:30</item>
+        <item>06:40</item>
+        <item>07:25</item>
+        <item>09:25</item>
+        <item>11:30</item>
+        <item>12:00</item>
+        <item>12:40</item>
+        <item>13:10</item>
+        <item>13:25</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>15:30</item>
+        <item>16:10</item>
+        <item>16:50</item>
+        <item>18:15</item>
+        <item>19:20</item>
+        <item>21:10</item>
+        <item>22:00</item>
+        <item>23:30</item>
+    </string-array>
+
+    <string-array name="ljukovo3">
+        <item>05:27</item>
+        <item>05:29</item>
+        <item>06:17</item>
+        <item>06:39</item>
+        <item>06:40</item>
+        <item>07:02</item>
+        <item>07:40</item>
+        <item>07:47</item>
+        <item>09:34</item>
+        <item>10:40</item>
+        <item>12:10</item>
+        <item>13:02</item>
+        <item>13:19</item>
+        <item>13:25</item>
+        <item>14:09</item>
+        <item>14:25</item>
+        <item>15:09</item>
+        <item>15:39</item>
+        <item>16:19</item>
+        <item>16:25</item>
+        <item>16:59</item>
+        <item>18:00</item>
+        <item>18:24</item>
+        <item>19:29</item>
+        <item>19:39</item>
+        <item>20:25</item>
+        <item>21:19</item>
+        <item>22:09</item>
+        <item>22:35</item>
+        <item>23:39</item>
+    </string-array>
+
+    <string-array name="jarkovci3">
+        <item>05:18</item>
+        <item>06:08</item>
+        <item>06:53</item>
+        <item>07:38</item>
+        <item>11:43</item>
+        <item>12:53</item>
+        <item>13:42</item>
+        <item>14:17</item>
+        <item>15:47</item>
+        <item>18:32</item>
+        <item>19:47</item>
+        <item>22:17</item>
+        <item>23:47</item>
+    </string-array>
+
+    <string-array name="autobuska3">
+        <item>05:40</item>
+        <item>06:27</item>
+        <item>06:51</item>
+        <item>07:15</item>
+        <item>07:51</item>
+        <item>08:00</item>
+        <item>10:51</item>
+        <item>12:05</item>
+        <item>13:15</item>
+        <item>14:00</item>
+        <item>13:36</item>
+        <item>14:32</item>
+        <item>14:36</item>
+        <item>16:07</item>
+        <item>16:34</item>
+        <item>16:36</item>
+        <item>18:11</item>
+        <item>18:41</item>
+        <item>20:05</item>
+        <item>20:36</item>
+        <item>22:32</item>
+        <item>22:46</item>
+        <item>00:05</item>
+    </string-array>
+
+
+    <string-array name="igb3">
+        <item>06:42</item>
+        <item>14:42</item>
+        <item>15:10</item>
+        <item>22:42</item>
+        <item>23:10</item>
+    </string-array>
+
+</resources>

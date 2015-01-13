@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="smera_gradskisubota">
+        <item>Autobuska stanica</item>
+        <item>Sonje Marinković - Vojvođanska</item>
+        <item>Njegoševa I</item>
+        <item>Njegoševa II</item>
+        <item>Zmaj Jovina I</item>
+        <item>Banović Strahinje</item>
+        <item>Arsenija Čarnojevića</item>
+        <item>Vojvođanskih brigada</item>
+        <item>Zmaj Jovina II</item>
+        <item>Duska Radovića</item>
+        <item>Save Šumanovića</item>
+        <item>Sportska hala</item>
+        <item>Pumpa - Lukoil</item>
+        <item>Đorđa Vojnovića I</item>
+        <item>Đorđa Vojnovića II</item>
+        <item>Centar</item>
+        <item>AS(Kralja Petra I)</item>
+        <item>O.Š. Jovan Popović</item>
+        <item>Juvitana</item>
+        <item>Gombit</item>
+        <item>Apatinska pivara</item>
+        <item>Branka Radičevića I</item>
+        <item>Branka Radičevića II</item>
+        <item>Železnička</item>
+        <item>Henkel</item>
+        <item>Autlet</item>
+        <item>Novi Karlovci I</item>
+        <item>Novi Karlovci - centar</item>
+        <item>IGB</item>
+        <item>Kulturni centar</item>
+        <item>Dunavska</item>
+        <item>Zanatlijska - Školska</item>
+
+
+    </string-array>
+    <string-array name="gaautobuskasubota">
+        <item>05:55</item>
+        <item>06:30</item>
+        <item>06:50</item>
+        <item>07:19</item>
+        <item>07:20</item>
+        <item>07:34</item>
+        <item>08:00</item>
+        <item>08:54</item>
+        <item>09:00</item>
+        <item>10:02</item>
+        <item>11:00</item>
+        <item>11:30</item>
+        <item>12:50</item>
+        <item>13:30</item>
+        <item>13:55</item>
+        <item>14:26</item>
+        <item>15:15</item>
+        <item>15:17</item>
+        <item>16:08</item>
+        <item>18:30</item>
+        <item>19:00</item>
+        <item>22:26</item>
+        <item>23:19</item>
+        <item>23:45</item>
+    </string-array>
+
+    <string-array name="gasmarinkovicsub">
+        <item>05:57</item>
+        <item>06:31</item>
+        <item>07:21</item>
+        <item>08:02</item>
+        <item>09:02</item>
+        <item>11:02</item>
+        <item>12:52</item>
+        <item>13:57</item>
+        <item>14:27</item>
+        <item>15:17</item>
+        <item>18:32</item>
+        <item>22:27</item>
+        <item>23:17</item>
+      </string-array>
+
+    <string-array name="ganjegoseva1sub">
+        <item>05:58</item>
+        <item>06:32</item>
+        <item>07:22</item>
+        <item>08:03</item>
+        <item>09:03</item>
+        <item>11:03</item>
+        <item>12:53</item>
+        <item>13:58</item>
+        <item>14:28</item>
+        <item>15:18</item>
+        <item>18:33</item>
+        <item>22:28</item>
+        <item>23:18</item>
+    </string-array>
+
+    <string-array name="ganjegoseva2sub">
+        <item>06:00</item>
+        <item>06:34</item>
+        <item>07:24</item>
+        <item>08:05</item>
+        <item>09:05</item>
+        <item>11:05</item>
+        <item>12:55</item>
+        <item>14:00</item>
+        <item>14:30</item>
+        <item>15:20</item>
+        <item>18:35</item>
+        <item>22:30</item>
+        <item>23:20</item>
+    </string-array>
+
+    <string-array name="gazjovina1sub">
+    <item>06:02</item>
+    <item>06:37</item>
+    <item>07:27</item>
+    <item>08:07</item>
+    <item>09:07</item>
+    <item>11:07</item>
+    <item>12:57</item>
+    <item>14:02</item>
+    <item>14:33</item>
+    <item>15:22</item>
+    <item>18:37</item>
+    <item>22:33</item>
+    <item>23:22</item>
+</string-array>
+
+    <string-array name="gabstrahinjesub">
+        <item>06:04</item>
+        <item>08:09</item>
+        <item>09:09</item>
+        <item>11:09</item>
+        <item>12:59</item>
+        <item>14:04</item>
+        <item>15:24</item>
+        <item>18:39</item>
+        <item>23:24</item>
+    </string-array>
+
+    <string-array name="gaacarnojevicasub">
+
+        <item>06:05</item>
+        <item>08:10</item>
+        <item>09:10</item>
+        <item>11:10</item>
+
+        <item>13:00</item>
+        <item>14:05</item>
+        <item>15:25</item>
+        <item>18:40</item>
+>
+        <item>23:25</item>
+    </string-array>
+
+    <string-array name="gavbrigadasub">
+
+        <item>06:06</item>
+        <item>08:11</item>
+        <item>09:11</item>
+        <item>11:11</item>
+
+        <item>13:01</item>
+        <item>14:06</item>
+        <item>15:26</item>
+        <item>18:41</item>
+
+        <item>23:26</item>
+    </string-array>
+
+    <string-array name="gazjovina2sub">
+
+        <item>06:08</item>
+        <item>08:13</item>
+        <item>09:13</item>
+        <item>11:13</item>
+
+        <item>13:03</item>
+        <item>14:08</item>
+        <item>15:28</item>
+        <item>18:43</item>
+
+        <item>23:28</item>
+    </string-array>
+
+    <string-array name="gadradovicasub">
+
+        <item>06:10</item>
+        <item>08:15</item>
+        <item>09:15</item>
+        <item>11:15</item>
+
+        <item>13:05</item>
+        <item>14:10</item>
+        <item>15:30</item>
+        <item>18:45</item>
+
+        <item>23:30</item>
+    </string-array>
+
+    <string-array name="gassumanovicasub">
+
+        <item>06:12</item>
+        <item>08:17</item>
+        <item>09:17</item>
+        <item>11:17</item>
+
+        <item>13:07</item>
+        <item>14:12</item>
+        <item>15:32</item>
+        <item>18:47</item>
+
+        <item>23:32</item>
+    </string-array>
+
+    <string-array name="gahalasub">
+
+        <item>06:14</item>
+        <item>06:39</item>
+        <item>07:29</item>
+        <item>08:19</item>
+        <item>09:19</item>
+        <item>11:19</item>
+
+        <item>13:09</item>
+        <item>14:14</item>
+        <item>14:35</item>
+        <item>15:34</item>
+        <item>18:49</item>
+
+        <item>22:35</item>
+        <item>23:34</item>
+    </string-array>
+    <string-array name="gapumpasub">
+
+
+        <item>06:15</item>
+        <item>06:21</item>
+        <item>06:40</item>
+        <item>07:30</item>
+        <item>08:20</item>
+        <item>08:26</item>
+        <item>09:20</item>
+        <item>09:26</item>
+        <item>11:20</item>
+        <item>11:26</item>
+
+
+        <item>13:10</item>
+        <item>13:16</item>
+        <item>14:15</item>
+        <item>14:21</item>
+        <item>14:36</item>
+        <item>15:35</item>
+        <item>15:41</item>
+        <item>18:50</item>
+        <item>18:56</item>
+
+
+        <item>22:36</item>
+        <item>23:35</item>
+        <item>23:41</item>
+    </string-array>
+
+    <string-array name="gadjvojnovica1sub">
+
+
+        <item>06:17</item>
+        <item>06:19</item>
+        <item>08:22</item>
+        <item>08:24</item>
+        <item>09:22</item>
+        <item>09:24</item>
+        <item>11:22</item>
+        <item>11:24</item>
+
+        <item>13:12</item>
+        <item>13:14</item>
+        <item>14:17</item>
+        <item>14:19</item>
+        <item>15:37</item>
+        <item>15:39</item>
+        <item>18:52</item>
+        <item>18:54</item>
+
+        <item>23:37</item>
+        <item>23:39</item>
+    </string-array>
+
+    <string-array name="gadjvojnovica2sub">
+
+        <item>06:18</item>
+        <item>08:23</item>
+        <item>09:23</item>
+        <item>11:23</item>
+
+        <item>13:13</item>
+        <item>14:18</item>
+        <item>15:38</item>
+        <item>18:53</item>
+
+        <item>23:38</item>
+    </string-array>
+
+    <string-array name="gacentarsub">
+
+
+        <item>06:23</item>
+        <item>06:48</item>
+        <item>08:28</item>
+        <item>08:52</item>
+        <item>09:28</item>
+        <item>10:00</item>
+        <item>11:28</item>
+
+        <item>13:18</item>
+        <item>14:23</item>
+        <item>15:43</item>
+        <item>16:06</item>
+        <item>18:58</item>
+
+        <item>23:43</item>
+    </string-array>
+
+    <string-array name="gaassub">
+
+        <item>06:25</item>
+        <item>13:20</item>
+        <item>14:25</item>
+        <item>15:45</item>
+
+    </string-array>
+
+    <string-array name="gajpopovicasub">
+
+        <item>05:28</item>
+        <item>06:26</item>
+        <item>06:33</item>
+        <item>13:21</item>
+        <item>13:28</item>
+        <item>14:26</item>
+        <item>14:33</item>
+        <item>15:46</item>
+        <item>15:53</item>
+
+        <item>22:38</item>
+    </string-array>
+
+    <string-array name="gajuvitanasub">
+
+        <item>06:28</item>
+        <item>13:23</item>
+        <item>14:28</item>
+        <item>15:48</item>
+
+    </string-array>
+
+    <string-array name="gagombitsub">
+
+        <item>06:30</item>
+        <item>13:25</item>
+        <item>14:30</item>
+        <item>15:50</item>
+
+    </string-array>
+
+    <string-array name="gapivarasub">
+
+        <item>06:32</item>
+        <item>13:27</item>
+        <item>14:32</item>
+        <item>15:52</item>
+
+    </string-array>
+
+    <string-array name="gabradicevica1sub">
+
+        <item>06:35</item>
+        <item>08:30</item>
+        <item>09:30</item>
+        <item>14:35</item>
+        <item>15:55</item>
+
+    </string-array>
+
+    <string-array name="gabradicevica2sub">
+
+        <item>06:37</item>
+        <item>08:32</item>
+        <item>09:32</item>
+        <item>14:37</item>
+        <item>15:57</item>
+
+    </string-array>
+
+    <string-array name="gazeleznickasub">
+        <item>08:34</item>
+        <item>09:34</item>
+        <item>15:59</item>
+    </string-array>
+
+    <string-array name="gahenkelsub">
+
+        <item>06:39</item>
+        <item>14:39</item>
+        <item>15:12</item>
+
+    </string-array>
+
+    <string-array name="gautletsub">
+        <item>08:41</item>
+        <item>09:41</item>
+        <item>09:49</item>
+
+    </string-array>
+
+    <string-array name="gasasesub">
+        <item>09:43</item>
+        <item>09:47</item>
+    </string-array>
+
+    <string-array name="gasasecentarsub">
+        <item>09:45</item>
+    </string-array>
+
+    <string-array name="gaigbsub">
+        <item>06:41</item>
+        <item>06:47</item>
+        <item>07:10</item>
+        <item>14:41</item>
+        <item>14:43</item>
+        <item>15:10</item>
+        <item>22:43</item>
+    </string-array>
+
+    <string-array name="gakcsub">
+        <item>05:37</item>
+        <item>06:44</item>
+        <item>08:48</item>
+        <item>09:56</item>
+        <item>16:02</item>
+    </string-array>
+
+    <string-array name="gadunavskasub">
+        <item>05:37</item>
+        <item>06:44</item>
+        <item>08:48</item>
+        <item>09:56</item>
+        <item>16:02</item>
+    </string-array>
+
+    <string-array name="gaskolskasub">
+        <item>05:39</item>
+        <item>06:42</item>
+        <item>06:46</item>
+        <item>08:50</item>
+        <item>09:58</item>
+        <item>14:38</item>
+        <item>16:04</item>
+        <item>22:38</item>
+    </string-array>
+
+</resources>

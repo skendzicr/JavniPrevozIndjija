@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="smera_stanicesub">
+        <item>Inđija</item>
+        <item>Grundfos</item>
+        <item>Autlet</item>
+        <item>Novi Karlovci</item>
+        <item>Novi Slankamen</item>
+        <item>Stari Slankamen</item>
+        <item>Sl. Vinogradi</item>
+        <item>Krčedin</item>
+        <item>Beška</item>
+        <item>Čortanovci</item>
+        <item>Gladnoš</item>
+        <item>Maradik</item>
+        <item>Inđija - autobuska</item>
+        <item>IGB</item>
+    </string-array>
+    <string-array name="indjijasub">
+        <item>03:50</item>
+        <item>05:00</item>
+
+        <item>05:20</item>
+
+        <item>07:00</item>
+
+        <item>09:28</item>
+        <item>10:15</item>
+        <item>11:20</item>
+        <item>11:30</item>
+        <item>12:35</item>
+        <item>13:10</item>
+        <item>13:20</item>
+        <item>14:00</item>
+
+        <item>15:30</item>
+        <item>16:20</item>
+
+        <item>18:10</item>
+
+        <item>21:10</item>
+        <item>21:20</item>
+        <item>23:15</item>
+    </string-array>
+
+    <string-array name="grundfossub">
+        <item>05:44</item>
+        <item>13:44</item>
+        <item>21:44</item>
+    </string-array>
+
+    <string-array name="autletsub">
+        <item>04:09</item>
+        <item>05:19</item>
+
+        <item>05:49</item>
+
+        <item>07:19</item>
+
+        <item>09:41</item>
+        <item>10:34</item>
+        <item>11:36</item>
+        <item>11:49</item>
+        <item>12:54</item>
+        <item>13:29</item>
+        <item>14:19</item>
+        <item>14:49</item>
+        <item>15:49</item>
+        <item>16:39</item>
+
+        <item>18:29</item>
+        <item>21:19</item>
+
+        <item>23:34</item>
+    </string-array>
+
+    <string-array name="sasesub">
+        <item>04:10</item>
+        <item>05:20</item>
+
+        <item>05:50</item>
+
+        <item>07:20</item>
+
+        <item>09:48</item>
+        <item>10:35</item>
+        <item>11:40</item>
+        <item>11:50</item>
+        <item>12:55</item>
+
+        <item>15:50</item>
+        <item>16:40</item>
+
+        <item>18:30</item>
+        <item>19:50</item>
+        <item>21:20</item>
+        <item>23:35</item>
+    </string-array>
+
+    <string-array name="nslankamensub">
+        <item>04:18</item>
+        <item>05:28</item>
+
+        <item>05:58</item>
+
+        <item>07:28</item>
+
+        <item>10:43</item>
+        <item>11:58</item>
+        <item>13:03</item>
+        <item>13:38</item>
+
+        <item>15:58</item>
+        <item>16:48</item>
+
+        <item>18:38</item>
+
+        <item>21:28</item>
+        <item>23:43</item>
+    </string-array>
+
+    <string-array name="sslankamensub">
+        <item>06:06</item>
+        <item>07:36</item>
+
+        <item>10:51</item>
+        <item>12:06</item>
+        <item>13:11</item>
+
+        <item>16:06</item>
+        <item>16:56</item>
+        <item>18:46</item>
+
+        <item>21:36</item>
+        <item>23:51</item>
+    </string-array>
+
+    <string-array name="slvinogradisub">
+        <item>05:41</item>
+        <item>06:17</item>
+
+        <item>11:02</item>
+        <item>12:17</item>
+
+        <item>23:59</item>
+    </string-array>
+
+    <string-array name="krcedinsub">
+        <item>04:35</item>
+        <item>05:54</item>
+        <item>06:30</item>
+
+        <item>11:15</item>
+        <item>12:30</item>
+
+        <item>13:55</item>
+
+        <item>16:21</item>
+
+        <item>21:51</item>
+        <item>00:12</item>
+    </string-array>
+
+    <string-array name="beskasub">
+        <item>04:44</item>
+        <item>06:03</item>
+        <item>06:39</item>
+
+
+        <item>11:24</item>
+        <item>12:39</item>
+
+        <item>14:04</item>
+
+        <item>16:30</item>
+
+        <item>22:00</item>
+        <item>00:21</item>
+    </string-array>
+
+    <string-array name="cortanovcisub">
+
+        <item>11:35</item>
+
+        <item>16:41</item>
+
+    </string-array>
+
+    <string-array name="gladnossub">
+
+        <item>11:50</item>
+
+        <item>16:56</item>
+
+    </string-array>
+
+    <string-array name="maradiksub">
+        <item>05:02</item>
+        <item>06:17</item>
+        <item>06:57</item>
+        <item>14:22</item>
+        <item>22:18</item>
+    </string-array>
+
+    <string-array name="autobuskasub">
+        <item>05:19</item>
+        <item>06:34</item>
+        <item>07:08</item>
+        <item>12:08</item>
+        <item>13:08</item>
+
+        <item>14:39</item>
+
+        <item>17:14</item>
+
+        <item>22:35</item>
+        <item>00:50</item>
+    </string-array>
+
+    <string-array name="igbsub">
+
+        <item>06:40</item>
+
+        <item>14:45</item>
+        <item>15:10</item>
+
+        <item>22:41</item>
+        <item>23:08</item>
+    </string-array>
+
+</resources>
